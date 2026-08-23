@@ -8,15 +8,15 @@
 
 
 header{
-    border:black 2px solid;
+    border:dashed green 2px solid;
 }
 
 nav{
-    border:pink 2px solid;
+    border:dashed green 2px solid;
 }
 
 main{
-    border: pink 2px solid;
+    border: dashed green 2px solid;
 }
 
 
